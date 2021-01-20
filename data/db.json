@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "Why do we use it?\n It is bla bl alb a vl vla vl   alv alvla va",
+            "author":"Chale",
+            "id": 1
+        },
+        {
+            "title": "My second Blog",
+            "body": "Why always second one.Is there is something hidden?\n It is bla bl alb a vl vla vl   alv alvla va",
+            "author":"Kamala",
+            "id": 2
+        },
+        {
+            "title": "My third Blog",
+            "body": "Why 3rd blog Do you want it for sure ?\n It is bla bl alb a vl vla vl   alv alvla va",
+            "author":"Fernando",
+            "id": 3
+        }
+    ]
+}
